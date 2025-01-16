@@ -93,7 +93,7 @@ The following configuration options are available:
 
 ## Related Libraries
 
-Check out these other useful embedded testing libraries for Clojure:
+Check out these other useful embedded testing libraries for Clojure: ( we also have audiogum version, but below is original creators)
 
 * [dynamo-embedded-clj](https://github.com/Bigsy/dynamo-embedded-clj) - Embedded DynamoDB
 * [redis-embedded-clj](https://github.com/Bigsy/redis-embedded-clj) - Embedded Redis
