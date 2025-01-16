@@ -1,4 +1,4 @@
-(defproject audiogum/pg-embedded-clj "1.0.2"
+(defproject audiogum/pg-embedded-clj "1.0.3-SNAPSHOT"
   :description "Embedded postgres for clojure"
   :url "https://github.com/bwgroupltd/audiogum/pg-embedded-clj"
   :license {:name "Eclipse Public License"
